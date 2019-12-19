@@ -16,3 +16,8 @@ footer {
     padding: 15px;
     color: white;
 }
+
+#body {
+    text-align: center;
+    line-height: 100vh;
+}
