@@ -9,3 +9,10 @@ header {
     background-color: chocolate;
     padding: 15px;
 }
+
+footer {
+    background-color: chocolate;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
