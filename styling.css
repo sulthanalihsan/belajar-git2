@@ -4,6 +4,7 @@ body {
     padding: 0;
 }
 
-section{
-    background-color: chocolate;
+#body{
+    text-align: center;
+    line-height: 100vh;
 }
